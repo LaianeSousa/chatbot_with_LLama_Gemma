@@ -10,7 +10,7 @@ O projeto tem como finalidade a criação de chatbot com dois modelos de LLm (La
 
 Ao fazer uma pergunta gerará duas respostas. A primeira respostas corresponde ao modelo llama3 e a outra respostas será do modelo Gemma. Logo, você poderá comparar as duas resposta e verificar se corresponde suas expectativas. 
 
-É importante resaltar que esse é a primeira versão, criado para fins didáticos.
+É importante resaltar que esse projeto foi criado para fins didáticos. Fique a vontade para fazer suas contribuições.
 
 ## 🔨 Funcionalidades do projeto:
 
