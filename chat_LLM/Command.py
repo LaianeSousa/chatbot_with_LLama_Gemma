@@ -20,7 +20,7 @@ class Consulta(Command):
 
 def cli():
     while True:
-        comando = input('Digite 1 para sair ou 2 para continuar: ')
+        comando = input('Digite 1 para sair ou 2 para continuar acessar o ChatBOT: ')
         
         if comando == '2':
             print("\nBem-vindo à interface de consulta de LLMs!")
